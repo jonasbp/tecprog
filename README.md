@@ -1,1 +1,1 @@
-# tecprog
+# Tecnicas de programação
